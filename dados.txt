@@ -1,11 +1,11 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
--Feedback sobre o curso Qualidade de Software:
--Feedback sobre a plataforma de estudo da EBAC:
+-Primeiro Nome: Renata Machado
+-Profissão: Analista de qualidade
+-Cidade: Lagoa Vermelha
+-O que faz nas horas vaga: leitura, estudo
+-Feedback sobre o curso Qualidade de Software: ótimo, muito aprendizado
+-Feedback sobre a plataforma de estudo da EBAC:plataforma completa, fácil didática
 
 Obrigado!!!
 
